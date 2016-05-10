@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Mentor Impact
+tagline:             
+url:                 http://salimvirani.com/mentorimpact
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Salim Virani
+  url:               https://twitter.com/saintsal
+  email:             smile@saintsal.com
 
 # Custom vars
 version:             2.0.0
