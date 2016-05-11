@@ -95,6 +95,15 @@ You're giving your valuable time and priceless expertise to help young founders 
 </div>
 
 
+
+---
+
+# Mentor Impact workshops
+
+Mentor Impact was originally designed as a 3-hour workshop. Use it to inject some of the best mentorship thinking into your community. The workshop discovers and share the best practices among your mentor network as well -- distributing the best of works in your environment to everyone else.
+
+Workshops start at 2,000 EUR, covering 40 mentors. [Get in touch](mailto:smile@saintsal.com) if you'd like to discuss.
+
 ---
 
 # About the author
