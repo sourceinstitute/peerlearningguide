@@ -22,7 +22,7 @@
 </style>
 
 <div class="cover">
-  <img src="public/img/mentorimpactcover.png">
+  <a href="http://gum.co/mentorimpact"><img src="public/img/mentorimpactcover.png"></a>
 </div>
 
 Startup mentors are experienced professionals and investors. And yet, founders often leave mentoring more confused than they started, and they don't apply the best advice.
