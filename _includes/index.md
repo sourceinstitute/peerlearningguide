@@ -1,11 +1,72 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<style>
+  .cover { float: right; width: 300px; margin: 0 5%; }
+  .testimonial { float: left; width: 33%; padding: 0 5% 0 0; text-align: center; margin-bottom: 2rem;}
+  .testimonial img { width: 50%; margin: 0px auto; }
+  .testimonial h3 { text-align: center; margin-bottom: 0;}
+  .testimonial .title { text-align: center; font-size: 70%; margin-bottom: 1rem;}
+  img.profile { max-width: 200px; float: right; margin: 0 5%;}
+  .cta { width: 100%; text-align: center; margin: 4rem auto; }
+  .share  { float: right; width: 50px; text-align: right; margin: 1rem ; }
+  .footer { font-size: 50%; }
+  .price { font-size: 70%; }
+  .jssocials-share:last-child, .jssocials-share:first-child { margin: 0.3em !important;}
+
+  @media only screen and (max-width: 620px) {
+    
+    .testimonial { float: none; width: 100%; padding: 0 5% 0 0; text-align: center;}
+
+    img.profile { max-width: 40%; }
+  }
+
+</style>
+
+<div class="cover">
+  <img src="public/img/mentorimpactcover.png">
+</div>
 
 Startup mentors are experienced professionals and investors. And yet, founders often leave mentoring more confused than they started, and they don't apply the best advice.
 
 So we did some research. We found the mentors that truly changed startups, and we asked them how they do it.
 
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/mentorimpact">Buy the book</a>
+<div class="price">$15 (or pay what you'd like)<br>30-day money-back guarantee.<br>Updates are free forever.
+</div>
 
+<div style="clear: right;"></div>
 ---
 
+<div class="testimonial">
+  <img src="public/img/andy.jpg">
+  <h3>Andy Young</h3>
+  <div class="title">EIR @ 500 Startups</div>
+
+"A must-read for anyone involved in helping startups. All accelerators and startup programmes should have this as required reading."
+</div>
+
+<div class="testimonial">
+  <img src="public/img/eze.jpg">
+  <h3>Eze Vidra</h3>
+  <div class="title"> Founder of Google Campus</div>
+  "Sal is able to anticipate the challenges startups will encounter during the life cycle of their products."
+</div>
+
+<div class="testimonial">
+  <img src="public/img/samantha.jpg">
+  <h3>Samantha Hosea</h3>
+  <div class="title">Creative Coach</div>
+
+  "Stuff that isn't out there yet. Nice and comprehensive, to the point. It helped me see what it useful for startups."
+</div>
+
+
+<div style="clear: left;"></div>
+---
+
+<div class="share"></div>
+
+# About Mentor Impact
 
 
 Working with some of the world's top accelerators, like Seedcamp and Techstars, we asked for the mentors who regularly make huge contributions to their startups, the ones that really change things.  We went to the best, and we asked them how they do it. 
@@ -14,7 +75,7 @@ What they told us was surprising -- it contradicted a lot of common knowledge.
 
 This guide looks at their different approaches, so you can find what works best for you:
 
-* ways to calbrate your advice, to make sure it's actionable to startups
+* ways to calibrate your advice, to make sure it's actionable to startups
 * different approaches to knowledge transfer
 * tips on practicalities
 * examples of unconventional mentoring approaches that work
@@ -25,11 +86,19 @@ We want to help you meet startups where they stand and offer substantial, action
 
 You're giving your valuable time and priceless expertise to help young founders - Mentor Impact will help you make it count.
 
-Cover image: Marina Del Castell
+<div class="cta">
+<span class="price"><script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/mentorimpact">Buy Mentor Impact</a></span>
+<div class="price">$15 (or pay what you'd like)<br>30-day money-back guarantee.<br>Updates are free forever.
+</div>
+
+</div>
+
 
 ---
 
-
+# About the author
+<img src="public/img/salim.png" class="profile">
 
 Salim Virani is the creator of Source Institute - an organisation that's making startup education better - mainly by pioneering peer to peer techniques.
 
@@ -45,17 +114,27 @@ Though in his parents eyes, he topped out at age 16, when we he was in the local
 
 
 
------
 
-Samantha Hosea
+<div class="footer">
+&copy; Copyright 2016 Salim Virani.  Cover image: <a href="https://www.flickr.com/photos/marinadelcastell/9401173747/in/dateposted/">Marina Del Castell</a>
+</div>
 
-Creative Coach
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 
-"Stuff that isn't out there yet. Nice and comprehensive, to the point. It helped me see what it useful for startups."
-Andy Young
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.min.js"></script>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials-theme-flat.css" />
+<script>
+jsSocials.setDefaults("twitter", {
+    via: "saintsal",
+    hashtags: "mentorimpact",
+    text: "Mentor Impact - a guide sharing how the top startup mentors make impact"
+});
 
-Andy Young
-
-EIR @ 500 Startups
-
-"A must-read for anyone involved in helping startups. All accelerators and startup programmes should have this as required reading."
+        $(".share").jsSocials({
+            shares: [ "twitter", "facebook",  "linkedin", "whatsapp", "email"],
+                showLabel: false,
+        showCount: false,
+            url: "{{url}}",
+        });
+</script>
