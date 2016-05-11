@@ -31,7 +31,7 @@ So we did some research. We found the mentors that truly changed startups, and w
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/mentorimpact">Buy the book</a>
-<div class="price">$15 (or pay what you'd like)<br>30-day money-back guarantee.<br>Updates are free forever.
+<div class="price">$15 (or pay what you'd like)<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
 </div>
 
 <div style="clear: right;"></div>
@@ -73,7 +73,7 @@ Working with some of the world's top accelerators, like Seedcamp and Techstars, 
 
 What they told us was surprising -- it contradicted a lot of common knowledge.
 
-This guide looks at their different approaches, so you can find what works best for you:
+Mentor Impact guides you through their different approaches, so you can find what works best for you:
 
 * ways to calibrate your advice, to make sure it's actionable to startups
 * different approaches to knowledge transfer
@@ -89,7 +89,7 @@ You're giving your valuable time and priceless expertise to help young founders 
 <div class="cta">
 <span class="price"><script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/mentorimpact">Buy Mentor Impact</a></span>
-<div class="price">$15 (or pay what you'd like)<br>30-day money-back guarantee.<br>Updates are free forever.
+<div class="price">$15 (or pay what you'd like)<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
 </div>
 
 </div>
