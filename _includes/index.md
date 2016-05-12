@@ -98,6 +98,57 @@ You're giving your valuable time and priceless expertise to help young founders 
 
 ---
 
+# Table of contents
+
+* The Source Institute Research Process
+  * Help Us Make This Guide Better!
+* Good mentoring is just...
+  * What separates great mentors from the rest 
+  * Is there a single way to be a good mentor?
+  * Styles of mentoring
+  * Wielding Authority
+  * Inclusiveness
+* The Conversation
+* Calibration  
+  * Learning their ambitions
+  * Figuring Out What The Product Actually Is
+  * Hearing the pitch 
+  * Learning What Stage They're At
+  * Finding Their Problems
+  * Mental State
+  * Team Dynamics
+  * Customer Understanding
+  * Constraints
+  * The power of calibration
+  * Concluding Calibration
+* Knowledge Transfer
+  * Tell Stories Instead Of Giving Advice
+  * Bring the industry numbers
+  * Do It With Them
+  * Simulate It
+  * Be Socratic
+  * Create Visuals
+  * Physical Artifacts
+  * A Kick In The Ass
+  * Be Enthusiastic!
+  * How To Help When They're Already Winning
+  * Concluding Knowledge Transfer
+* Next Steps
+  * The Insta-Intro
+  * The Conditional Intro
+  * Homework
+  * The Reading List
+  * Ask For Updates
+  * Ask For Another Meeting
+  * Becoming An Advisor
+  * Your Mentoring Kit
+* How Mentoring Goes Wrong
+* Picking Your Style
+* Getting Better
+  * Learn from other mentors
+
+---
+
 # Mentor Impact workshops
 
 Mentor Impact was originally designed as  workshop, so mentors can exchange ideas, reflect and discuss. It's a great way to inject some of the world's best mentorship thinking into your community, but also reveal the best mentoring approaches that work in your industry and culture. Mentor Impact workshops are designed to allow you and your mentors to deliver future workshops yourselves.
