@@ -25,7 +25,7 @@
   <a href="http://gum.co/mentorimpact"><img src="public/img/mentorimpactcover.png"></a>
 </div>
 
-Startup mentors are experienced professionals and investors. And yet, founders often leave mentoring more confused than they started, and they don't apply the best advice.
+Startup mentors are experienced professionals and investors. And yet, founders often leave mentoring more confused than they started. And they don't apply the best advice.
 
 So we did some research. We found the mentors that truly changed startups, and we asked them how they do it.
 
@@ -100,9 +100,9 @@ You're giving your valuable time and priceless expertise to help young founders 
 
 # Mentor Impact workshops
 
-Mentor Impact was originally designed as a 3-hour workshop. Use it to inject some of the best mentorship thinking into your community. The workshop discovers and share the best practices among your mentor network as well -- distributing the best of works in your environment to everyone else.
+Mentor Impact was originally designed as  workshop, so mentors can exchange ideas, reflect and discuss. It's a great way to inject some of the world's best mentorship thinking into your community, but also reveal the best mentoring approaches that work in your industry and culture. Mentor Impact workshops are designed to allow you and your mentors to deliver future workshops yourselves.
 
-Workshops start at 2,000 EUR, covering 40 mentors. [Get in touch](mailto:smile@saintsal.com) if you'd like to discuss.
+Workshops start at 3,000 EUR, covering 40 mentors. [Please get in touch](mailto:salim@source.institute) if you'd like to discuss.
 
 ---
 
