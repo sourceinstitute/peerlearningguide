@@ -158,7 +158,7 @@ Workshops start at 3,000 EUR, covering 40 mentors. [Please get in touch](mailto:
 <img src="public/img/salim.png" class="profile">
 
 
-Salim Virani works to empower startup founders on their own terms - from Roma people, to African engineers - even Europeans.
+Salim Virani works to empower startup founders on their own terms - from Roma people, to African engineers - even, as crazy as it may sound, Europeans.
 
 He is the creator of Source Institute - an organisation that's making startup education better - mainly by pioneering peer to peer techniques.
 
