@@ -101,7 +101,6 @@ You're giving your valuable time and priceless expertise to help young founders 
 # Table of contents
 
 * The Source Institute Research Process
-  * Help Us Make This Guide Better!
 * Good mentoring is just...
   * What separates great mentors from the rest 
   * Is there a single way to be a good mentor?
@@ -144,7 +143,6 @@ You're giving your valuable time and priceless expertise to help young founders 
 * How Mentoring Goes Wrong
 * Picking Your Style
 * Getting Better
-  * Learn from other mentors
 
 ---
 
