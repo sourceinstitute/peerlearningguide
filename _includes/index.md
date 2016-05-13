@@ -150,7 +150,7 @@ You're giving your valuable time and priceless expertise to help young founders 
 
 Mentor Impact was originally designed as  workshop, so mentors can exchange ideas, reflect and discuss. It's a great way to inject some of the world's best mentorship thinking into your community, but also reveal the best mentoring approaches that work in your industry and culture. Mentor Impact workshops are designed to allow you and your mentors to deliver future workshops yourselves.
 
-Workshops start at 3,000 EUR, covering 40 mentors. [Please get in touch](mailto:salim@source.institute) if you'd like to discuss.
+Workshops start at 1,500 EUR, covering 20 mentors. [Please get in touch](mailto:salim@source.institute) if you'd like to discuss.
 
 ---
 
