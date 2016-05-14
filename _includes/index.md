@@ -1,26 +1,3 @@
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<style>
-  .cover { float: right; width: 300px; margin: 0 5%; }
-  .testimonial { float: left; width: 33%; padding: 0 5% 0 0; text-align: center; margin-bottom: 2rem;}
-  .testimonial img { width: 50%; margin: 0px auto; }
-  .testimonial h3 { text-align: center; margin-bottom: 0;}
-  .testimonial .title { text-align: center; font-size: 70%; margin-bottom: 1rem;}
-  img.profile { max-width: 200px; float: right; margin: 0 5%;}
-  .cta { width: 100%; text-align: center; margin: 4rem auto; }
-  .share  { float: right; width: 50px; text-align: right; margin: 1rem ; }
-  .footer { font-size: 50%; }
-  .price { font-size: 70%; }
-  .jssocials-share:last-child, .jssocials-share:first-child { margin: 0.3em !important;}
-
-  @media only screen and (max-width: 620px) {
-    
-    .testimonial { float: none; width: 100%; padding: 0 5% 0 0; text-align: center;}
-
-    img.profile { max-width: 40%; }
-  }
-
-</style>
-
 <div class="cover">
   <a href="http://gum.co/mentorimpact"><img src="public/img/mentorimpactcover.png"></a>
 </div>
