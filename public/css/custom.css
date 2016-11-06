@@ -17,3 +17,30 @@
     img.profile { max-width: 40%; }
   }
   .posts .post { margin-bottom: 20px; }
+
+
+.banner {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  background: #2A7971;
+  color: #fff;
+  position: absolute;
+  right:-200px;
+  top:40px;
+  padding: 5px 200px;
+  transform: rotate(30deg);
+  z-index: 100;
+  -webkit-transition: background 0.5s linear;
+  -moz-transition: background 0.5s linear;
+  -ms-transition: background 0.5s linear;
+}
+.banner:hover {
+  background: #092816;
+}
+
+.banner a {
+  color: #fff;
+}
+.banner a:hover {
+  text-decoration: none;
+}
