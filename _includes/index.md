@@ -40,11 +40,13 @@ So we did some research. We found the mentors that truly changed startups, and w
 
 <div style="clear: left;"></div>
 
+<div class="tweets">
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">A look at the mentors that truly changed startups, and how they do it. Get this book to learn how:  <a href="https://t.co/4RL4vuvBof">https://t.co/4RL4vuvBof</a></p>&mdash; Eric Ries (@ericries) <a href="https://twitter.com/ericries/status/817788309913137152">January 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Mentoring startups? Get Mentor Impact, a book by <a href="https://twitter.com/SaintSal">@saintsal</a> gathering top mentoring advice from dozens on top mentos: <a href="https://t.co/CLvPfl2I5r">https://t.co/CLvPfl2I5r</a></p>&mdash; Oriol Pascual (@onsustain) <a href="https://twitter.com/onsustain/status/817788242795831296">January 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 ---
 

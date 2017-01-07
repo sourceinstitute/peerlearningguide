@@ -10,9 +10,13 @@
   .price { font-size: 70%; }
   .jssocials-share:last-child, .jssocials-share:first-child { margin: 0.3em !important;}
 
+  .tweets { width: 100%; padding: 0 20%; margin-bottom: 2rem;}
+
   @media only screen and (max-width: 620px) {
     
     .testimonial { float: none; width: 100%; padding: 0 5% 0 0; text-align: center;}
+
+    .tweets { padding: 0; }
 
     img.profile { max-width: 40%; }
   }
