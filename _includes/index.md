@@ -72,6 +72,7 @@ You're giving your valuable time and priceless expertise to help young founders 
 </div>
 
 ---
+
 # Mentor Impact workshops
 
 Mentor Impact was originally designed as  workshop, so mentors can exchange ideas, reflect and discuss. It's a great way to inject some of the world's best mentorship thinking into your community, but also reveal the best mentoring approaches that work in your industry and culture. Mentor Impact workshops are designed to allow you and your mentors to deliver future workshops yourselves.
