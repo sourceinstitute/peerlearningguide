@@ -1,6 +1,7 @@
 # About the author
 <img src="public/img/salim.png" class="profile">
 
+<a class="twitter-follow-button" href="https://twitter.com/SaintSal" data-size="large"> Follow @SaintSal</a>
 
 Salim Virani works to empower startup founders on their own terms - from Roma people, to African engineers - even, as crazy as it may sound, Europeans.
 
