@@ -14,4 +14,4 @@ permalink: /updates
 > Salim Virani, author of Mentor Impact
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/mentorimpact">Get the latest version.</a>
+<a class="gumroad-button" href="https://gum.co/mentorimpact/updates">Get the latest version.</a>
