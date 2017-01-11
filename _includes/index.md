@@ -75,7 +75,7 @@ You're giving your valuable time and priceless expertise to help young founders 
 <div class="cta">
 <span class="price"><script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/mentorimpact">Buy Mentor Impact</a></span>
-<div class="price">$25 (or pay what you'd like)<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
+<div class="price">$25 <br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
 </div>
 
 </div>
