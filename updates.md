@@ -5,7 +5,7 @@ permalink: /updates
 
 <img src="/public/img/salim.png" class="profile">
 
-## Thank you for investment in startups!
+Thanks for your investment in startups!
 
 Whether you bought Mentor Impact, or it was shared with you, I'd like you to have the latest version with my compliments.  
 
@@ -14,4 +14,4 @@ So much about mentoring changes with the times, and as I hear from people around
 Salim Virani, author of Mentor Impact
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/mentorimpact/updates">Get the latest version.</a>
+<a class="gumroad-button" href="https://gum.co/mentorimpact/update">Get the latest version.</a>
