@@ -1,0 +1,49 @@
+---
+layout: default
+title: Mentor Impact
+---
+{% capture my-include %}{% include thepipe.md %}{% endcapture %}
+{{ my-include | markdownify }}
+
+<div class="related">
+  <h2>Updates</h2>
+  <ul class="related-posts">
+    {% for post in site.posts %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% capture my-include %}{% include author.md %}{% endcapture %}
+{{ my-include | markdownify }}
+
+<div class="footer">
+&copy; Copyright 2016 Salim Virani.  Cover image: <a href="https://www.flickr.com/photos/marinadelcastell/9401173747/in/dateposted/">Marina Del Castell</a>
+</div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.min.js"></script>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials-theme-flat.css" />
+<script>
+jsSocials.setDefaults("twitter", {
+    via: "saintsal",
+    hashtags: "mentorimpact",
+    text: "Mentor Impact - a guide sharing how the top startup mentors make impact"
+});
+
+        $(".share").jsSocials({
+            shares: [ "twitter", "facebook",  "linkedin", "whatsapp", "email"],
+                showLabel: false,
+        showCount: false,
+            url: "{{url}}",
+        });
+</script>
