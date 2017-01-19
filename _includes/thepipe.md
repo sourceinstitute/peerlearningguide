@@ -2,6 +2,10 @@
   <a href="http://gum.co/mentorimpact/thepipe"><img src="/public/img/mentorimpactcover.png"></a>
 </div>
 
+<div class="announcement">
+<a href="http://thepipe.io/book/mentor-impact"><img src="public/img/thepipe.png"> We've been featured on The Pipe!</a>
+</div>
+
 Startup mentors are experienced professionals and investors. But founders often leave mentoring more confused than they started. And they often miss the best advice.
 
 So we did some research. We found the mentors that truly changed startups, and we asked them how they do it.
@@ -11,7 +15,6 @@ So we did some research. We found the mentors that truly changed startups, and w
 <div class="price"><del>$25</del> $15<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
 </div>
 
-<a href="http://thepipe.io/book/mentor-impact"><img src="/public/img/thepipe.png"> We've been featured on The Pipe!</a>
 
 <div style="clear: right;"></div>
 ---
