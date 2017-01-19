@@ -1,10 +1,11 @@
+<div class="announcement">
+<a href="http://thepipe.io/book/mentor-impact"><img src="/public/img/thepipe.png"> We've been featured on The Pipe!</a>
+</div>
+
 <div class="cover">
   <a href="http://gum.co/mentorimpact/thepipe"><img src="/public/img/mentorimpactcover.png"></a>
 </div>
 
-<div class="announcement">
-<a href="http://thepipe.io/book/mentor-impact"><img src="public/img/thepipe.png"> We've been featured on The Pipe!</a>
-</div>
 
 Startup mentors are experienced professionals and investors. But founders often leave mentoring more confused than they started. And they often miss the best advice.
 

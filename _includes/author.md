@@ -1,5 +1,5 @@
 # About the author
-<img src="public/img/salim.png" class="profile">
+<img src="/public/img/salim.png" class="profile">
 
 <a class="twitter-follow-button" href="https://twitter.com/SaintSal" data-size="large"> Follow @SaintSal</a>
 
