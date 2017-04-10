@@ -11,10 +11,6 @@ So we did some research. We found the mentors that truly changed startups, and w
 <div class="price">$19<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
 </div>
 
-<div class="announcement">
-<a href="http://thepipe.io/book/mentor-impact"><img src="public/img/thepipe.png"> We've been featured on The Pipe!</a>
-</div>
-
 <div style="clear: right;"></div>
 ---
 
