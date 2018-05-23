@@ -8,7 +8,7 @@ So we did some research. We found the mentors that truly changed startups, and w
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/mentorimpact">Buy the book</a>
-<div class="price">$19<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
+<div class="price">$8<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
 </div>
 
 <div style="clear: right;"></div>
@@ -75,7 +75,7 @@ You're giving your valuable time and priceless expertise to help young founders 
 <div class="cta">
 <span class="price"><script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/mentorimpact">Buy Mentor Impact</a></span>
-<div class="price">$19 <br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
+<div class="price">$8 <br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
 </div>
 
 </div>
