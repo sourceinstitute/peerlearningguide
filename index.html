@@ -5,22 +5,6 @@ title: The Peer Learning Guide
 {% capture my-include %}{% include index.md %}{% endcapture %}
 {{ my-include | markdownify }}
 
-<div class="related">
-  <h2>Updates</h2>
-  <ul class="related-posts">
-    {% for post in site.posts %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
 {% capture my-include %}{% include author.md %}{% endcapture %}
 {{ my-include | markdownify }}
 
