@@ -1,15 +1,10 @@
 <div class="cover">
-  <a href="http://gum.co/mentorimpact"><img src="public/img/mentorimpactcover.png"></a>
+  <a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"><img src="public/img/peerlearningguidecover.png"></a>
 </div>
 
-Startup mentors are experienced professionals and investors. But founders often leave mentoring more confused than they started. And they often miss the best advice.
+How to make education responsive to a fast-changing world. Lessons from our heroes, and our own peer-learning programs on 5 continents.
 
-So we did some research. We found the mentors that truly changed startups, and we asked them how they do it.
-
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/mentorimpact">Buy the book</a>
-<div class="price">$8<br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
-</div>
+Sign up to our mailing list for a sneak peek.
 
 <div style="clear: right;"></div>
 ---
@@ -40,102 +35,140 @@ So we did some research. We found the mentors that truly changed startups, and w
 
 <div style="clear: left;"></div>
 
-<div class="tweets">
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">A look at the mentors that truly changed startups, and how they do it. Get this book to learn how:  <a href="https://t.co/4RL4vuvBof">https://t.co/4RL4vuvBof</a></p>&mdash; Eric Ries (@ericries) <a href="https://twitter.com/ericries/status/817788309913137152">January 7, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Mentoring startups? Get Mentor Impact, a book by <a href="https://twitter.com/SaintSal">@saintsal</a> gathering top mentoring advice from dozens on top mentos: <a href="https://t.co/CLvPfl2I5r">https://t.co/CLvPfl2I5r</a></p>&mdash; Oriol Pascual (@onsustain) <a href="https://twitter.com/onsustain/status/817788242795831296">January 7, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
----
-
 <div class="share"></div>
 
-# About Mentor Impact
+# About The Peer Learning Guide
 
+When a new discipline is still emerging, how do you educate people in that subject?  There are no established experts, no books,  and no agreement in best practices, so where do you begin?
 
-Working with some of the world's top accelerators, like Seedcamp and Techstars, we asked for the mentors who regularly make huge contributions to their startups, the ones that really change things.  We went to the best, and we asked them how they do it. 
+We got interested in this topic when wanted to help in fast-changing contexts like humanitarian problems, the food supply chain, energy distribution, machine learning, blockchain.
 
-What they told us was surprising -- it contradicted a lot of common knowledge.
+The Peer Learning Guide is written for educators, program managers, and most importantly, for participants who want to improve their own education experiences.
 
-Mentor Impact guides you through their different approaches, so you can find what works best for you:
+It covers our role models' stories, like Harvard and Y Combinator, and how we took what we learned from them to create some world-class education programs and globally-known communities of practice.
 
-* ways to calibrate your advice, to make sure it's actionable to startups
-* different approaches to knowledge transfer
-* tips on practicalities
-* examples of unconventional mentoring approaches that work
+We wrote this book with action in mind.  It weaves together lots of different experiences and lessons from around the world, and gives you a set of tools to evolve education programs towards being more connected and more responsive.  
 
-This guide is very useful if you're new to startup mentoring, and has a number of new approaches for the experienced.
+* How to design a program that will have an over-subscribed pipeline of applicants
+* How to design a schedule that engages people consistently
+* Why standard programs fail to align to the learners' motivations
+* How to run a program that makes the learner actively pull new content, rather than passively (or sleepily) consume
+* How to find more inspiring and relevant expertise, beyond the workshop/consultant brigade
+* How to separate the role of the educator from the role of the domain expert
+* How to remove the logistics and admin-heavy aspects of education, to free your time for high-impact activities
 
-We want to help you meet startups where they stand and offer substantial, actionable help (not just opinions and advice). 
+If you want to improve an existing educational program, build a community of practice or take your education into your own hands - this guide will help you.
 
-You're giving your valuable time and priceless expertise to help young founders - Mentor Impact will help you make it count.
+Your time is priceless - the guide will help make it count.
 
-<div class="cta">
-<span class="price"><script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/mentorimpact">Buy Mentor Impact</a></span>
-<div class="price">$8 <br>70 pages - 10,000 words<br>30-day money-back guarantee.<br>Updates are free forever.
-</div>
-
-</div>
-
----
-
-# Workshops
-
-Mentor Impact was originally designed as workshop, so mentors can exchange techniques, and reflect together about what works. Mentor Impact workshops inject some of the world's best mentorship thinking into your community, and reveal the best mentoring approaches that work in your industry and culture. 
-
-[Please get in touch](mailto:salim@source.institute) if you'd like to discuss.
+<div class="cta"> </div> 
 
 
 ---
 
 # Table of contents
 
-* The Source Institute Research Process
-* Good mentoring is just...
-  * What separates great mentors from the rest 
-  * Is there a single way to be a good mentor?
-  * Styles of mentoring
-  * Wielding Authority
-  * Inclusiveness
-* The Conversation
-* Calibration  
-  * Learning their ambitions
-  * Figuring Out What The Product Actually Is
-  * Hearing the pitch 
-  * Learning What Stage They're At
-  * Finding Their Problems
-  * Mental State
-  * Team Dynamics
-  * Customer Understanding
-  * Constraints
-  * The power of calibration
-  * Concluding Calibration
-* Knowledge Transfer
-  * Tell Stories Instead Of Giving Advice
-  * Bring the industry numbers
-  * Do It With Them
-  * Simulate It
-  * Be Socratic
-  * Create Visuals
-  * Physical Artifacts
-  * A Kick In The Ass
-  * Be Enthusiastic!
-  * How To Help When They're Already Winning
-  * Concluding Knowledge Transfer
-* Next Steps
-  * The Insta-Intro
-  * The Conditional Intro
-  * Homework
-  * The Reading List
-  * Ask For Updates
-  * Ask For Another Meeting
-  * Becoming An Advisor
-* How Mentoring Goes Wrong
-* Picking Your Style
-* Getting Better
+* Making this guide work for you
+* This is for the community leaders who are putting in the work
+
+* Flexible, easy-to-setup educational formats
+	* From topic checklists to mindset evolution
+	* From scheduling to responding
+
+* “Modern” education is modernising
+  * Success is defined by what the learner becomes
+    * Harvard Physics
+    * Y Combinator
+  * Put the learner in a fitting environment
+    * Seedcamp
+    * Lean Startup movement
+  * Detect and Respond
+    * University Of Wageningen
+    * UCL
+  * Communities are conduits of knowledge
+    * Pirate Summit
+    * Clearleft retreats
+  * The educator, the domain expert and the learner are provisory roles
+    * Braintrust
+    * Africa Prize
+  * Put the learner in control
+    * Farmer Field Schools
+    * Barcamp
+
+* Defining Peer-to-peer Education
+  * Responsiveness
+  * Creative Agency
+  * Hyper-Connectivity
+
+* Evaluation Framework
+  * Evaluating different forms of education
+    * Lecture programs
+    * Panel discussions
+    * Large conferences
+    * Retreats
+    * Workshops
+    * Startup Accelerators
+
+* Program Design
+  * What is a program?
+  * Defining Learning Success:
+    * Mindset
+    * Knowledge repetition versus application and action
+    * Letting the learner define success for themselves
+  * Program Shapes or Templates?
+  * Key factors to consider
+    * Ryhthm
+    * Project or person
+    * Knowledge sources
+    * Knowledge Waves 
+    * Agency 
+    * Motivation to attend: intrinsic / extrinsic, zeitgiest / challenge
+    * Open / Cohorts
+    * Pipeline and applications
+
+* Peer Learning Components
+  * Increasing Responsiveness
+    * Format: Inside Out
+    * Facilitation skill: Post Up
+    * Format: Clinic
+    * Facilitation skill: Packaging Knowledge
+    * Format: Fixer
+    * Curation skill: Creating agency
+  * Building Agency
+    * Self-directed projects
+    * Inspiration
+    * Format: Flocks
+    * Curation skill: seeding
+    * Format: Hearts and hurdles
+    * Facilitation skill: building vunerability
+    * Confidence Builders
+    * Simulations
+    * Experts who confuse with diagrams
+  * Building On Agency
+    * Format: braintrust
+    * Facilitation skill: time-keeping
+    * Format: pitch bingo
+    * Facilitation skill: peer feedback
+  * Increasing Hyper-Connectivity
+    * Format: fishbowl, open interview
+    * Format Lean Coffee
+    * Building Community
+    * Facilitation skill: invitation
+    * Faci skill: networking
+    * Format: open space
+    * Curation skill: ambassadors
+  * Introducing Peer Learning in Constrained Environments
+    * Format: Neighbour
+    * Format: Spar
+    * Format: Live Case Studies
+
+* What's next?
+	* Evolving your program over time
+	* Alumni networks
+	* Building Community support
+
+Peer Learning Traders
+* The Source Community
 
 ---
 

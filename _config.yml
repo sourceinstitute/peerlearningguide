@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Mentor Impact
+title:               The Peer Learning Guide
 tagline:             
-url:                 http://mentorimpact.co/
+url:                 http://peerlearning.guide/
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Salim Virani
-  url:               https://twitter.com/saintsal
-  email:             smile@saintsal.com
+  name:              Source Institute
+  url:               https://twitter.com/sourceinst
+  email:             info@source.institute
 
 # Custom vars
 version:             2.0.0
