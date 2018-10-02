@@ -77,23 +77,17 @@ Your time is priceless - the guide will help make it count.
 
 * “Modern” education is modernising
   * Success is defined by what the learner becomes
-    * Harvard Physics
-    * Y Combinator
+    * Harvard Physics & Y Combinator
   * Put the learner in a fitting environment
-    * Seedcamp
-    * Lean Startup movement
+    * Seedcamp & the Lean Startup movement
   * Detect and Respond
-    * University Of Wageningen
-    * UCL
+    * UCL & University Of Wageningen
   * Communities are conduits of knowledge
-    * Pirate Summit
-    * Clearleft retreats
+    * Pirate Summit & Clearleft 
   * The educator, the domain expert and the learner are provisory roles
-    * Braintrust
-    * Africa Prize
+    * The Africa Prize & London's Braintrust
   * Put the learner in control
-    * Farmer Field Schools
-    * Barcamp
+    * Farmer Field Schools & Barcamp
 
 * Defining Peer-to-peer Education
   * Responsiveness
@@ -128,47 +122,31 @@ Your time is priceless - the guide will help make it count.
 
 * Peer Learning Components
   * Increasing Responsiveness
-    * Format: Inside Out
-    * Facilitation skill: Post Up
-    * Format: Clinic
-    * Facilitation skill: Packaging Knowledge
-    * Format: Fixer
-    * Curation skill: Creating agency
+    * Formats: Inside Out, Clinics, Fixers
+    * Facilitation skills: Post Up, Packaging Knowledge
   * Building Agency
-    * Self-directed projects
-    * Inspiration
-    * Format: Flocks
-    * Curation skill: seeding
-    * Format: Hearts and hurdles
-    * Facilitation skill: building vunerability
-    * Confidence Builders
-    * Simulations
-    * Experts who confuse with diagrams
+    * Structurally: Self-directed projects,  Inspiration
+    * Formats: Flocks, Hearts and Hurdles
+    * Facilitation skill: Seeding content, Building Vunerability
+    * Confidence Builders & Simulations
+    * Managing Experts Who Confuse
   * Building On Agency
-    * Format: braintrust
-    * Facilitation skill: time-keeping
-    * Format: pitch bingo
-    * Facilitation skill: peer feedback
+    * Formats: Braintrust, Pitch Bingo
+    * Facilitation skills: time-keeping, peer feedback
   * Increasing Hyper-Connectivity
-    * Format: fishbowl, open interview
-    * Format Lean Coffee
     * Building Community
-    * Facilitation skill: invitation
-    * Faci skill: networking
-    * Format: open space
-    * Curation skill: ambassadors
+    * Format: fishbowl, open interview, Lean Coffee, Open Spaces
+    * Facilitation skill: invitation, systematic networking, working with ambassadors
   * Introducing Peer Learning in Constrained Environments
-    * Format: Neighbour
-    * Format: Spar
-    * Format: Live Case Studies
+    * Formats: Neighbour, Spar, Live Case Studies
 
 * What's next?
-	* Evolving your program over time
-	* Alumni networks
-	* Building Community support
+    * Evolving your program over time
+    * Alumni networks
+    * Building Community support
 
-Peer Learning Traders
-* The Source Community
+* Peer Learning Traders
+  * The Source Community
 
 ---
 
