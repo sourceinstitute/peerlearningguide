@@ -4,7 +4,11 @@
 
 How to make education responsive to a fast-changing world. Lessons from our heroes, and our own peer-learning programs on 5 continents.
 
-[Sign up to our mailing list for a sneak peek.](http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w)
+<div class="cta">
+<p>Join our mailing list for a sneak peek.</p>
+<p><a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"> Sign Up</a></p>
+<div class="sub">We don't share your data.</div> 
+</div>
 
 <div style="clear: right;"></div>
 ---
@@ -38,7 +42,11 @@ If you want to improve an existing educational program, build a community of pra
 
 Your time is priceless - the guide will help make it count.
 
-<div class="cta"> </div> 
+<div class="cta">
+<p>Join our mailing list for a sneak peek.</p>
+<p><a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"> Sign Up</a></p>
+<div class="sub">We don't share your data.</div> 
+</div>
 
 
 ---
@@ -126,4 +134,10 @@ Your time is priceless - the guide will help make it count.
   * The Source Community
 
 ---
+<div class="cta">
+<p>Join our mailing list for a sneak peek.</p>
+<p><a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"> Sign Up</a></p>
+<div class="sub">We don't share your data.</div> 
+</div>
+
 
