@@ -4,33 +4,10 @@
 
 How to make education responsive to a fast-changing world. Lessons from our heroes, and our own peer-learning programs on 5 continents.
 
-Sign up to our mailing list for a sneak peek.
+[Sign up to our mailing list for a sneak peek.](http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w)
 
 <div style="clear: right;"></div>
 ---
-
-<div class="testimonial">
-  <img src="public/img/andy.jpg">
-  <h3>Andy Young</h3>
-  <div class="title">EIR @ 500 Startups</div>
-
-"A must-read for anyone involved in helping startups. All accelerators and startup programmes should have this as required reading."
-</div>
-
-<div class="testimonial">
-  <img src="public/img/eze.jpg">
-  <h3>Eze Vidra</h3>
-  <div class="title"> Founder of Google Campus</div>
-  "Sal is able to anticipate the challenges startups will encounter during the life cycle of their products."
-</div>
-
-<div class="testimonial">
-  <img src="public/img/samantha.jpg">
-  <h3>Samantha Hosea</h3>
-  <div class="title">Creative Coach</div>
-
-  "Stuff that isn't out there yet. Nice and comprehensive, to the point. It helped me see what it useful for startups."
-</div>
 
 
 <div style="clear: left;"></div>
