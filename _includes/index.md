@@ -54,7 +54,7 @@ Your time is priceless - the guide will help make it count.
 # Table of contents
 
 * Making this guide work for you
-* This is for the community leaders who are putting in the work
+* For the community leaders who are putting in the work
 
 * Flexible, easy-to-setup educational formats
 	* From topic checklists to mindset evolution
@@ -62,7 +62,7 @@ Your time is priceless - the guide will help make it count.
 
 * “Modern” education is modernising
   * Success is defined by what the learner becomes
-    * Harvard Physics & Y Combinator
+    * [Harvard Physics & Y Combinator](http://community.source.institute/t/excerpt-harvard-physics-and-y-combinator-on-defining-learning-success/2690)
   * Put the learner in a fitting environment
     * Seedcamp & the Lean Startup movement
   * Detect and Respond
