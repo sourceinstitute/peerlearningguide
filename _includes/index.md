@@ -26,7 +26,7 @@ We got interested in this topic when wanted to help in fast-changing contexts li
 
 The Peer Learning Guide is written for educators, program managers, and most importantly, for participants who want to improve their own education experiences.
 
-It covers our role models' stories, like Harvard and Y Combinator, and how we took what we learned from them to create some world-class education programs and globally-known communities of practice.
+It covers our role models' stories, like Harvard and Y Combinator in the US, MEST in Ghana, FarmHack in the Netherlands and Pirate Summit in Germany. And we share how we took what we learned from them to create some world-class education programs and globally-known communities of practice like The Sources, The Africa Prize For Engineering and the Lean Startup movement.
 
 We wrote this book with action in mind.  It weaves together lots of different experiences and lessons from around the world, and gives you a set of tools to evolve education programs towards being more connected and more responsive.  
 
