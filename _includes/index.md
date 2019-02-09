@@ -93,13 +93,10 @@ Your time is priceless - the guide will help make it count.
 
 * Program Design
   * From evolution to redesign
-  * Questioning the pre-conditions
-  	* Content - teaching tech in East Africa
-	* Methodologies - the fallacy of case studies
-	* Models - copying startup accelerators
+  * Questioning the pre-conditions - content, methodologies and models
   * Defining Learning Success
-  	* Reframing your goals with your peer learning capabilities
-  	* [Interdisciplinary opportunities and designing your program around unlikely advantages](http://source.institute/blog/unlikely-advantages/)
+  	* What goals does Peer Learning enable?
+  	* [Designing around unlikely advantages](http://source.institute/blog/unlikely-advantages/)
   * Assessing what you have to work with
   * Design decisions
     * Where are your sources of knowledge?
@@ -111,7 +108,8 @@ Your time is priceless - the guide will help make it count.
     * Lowering lead-time
     * Eliminating wheel-spinning
     * Injecting role models into the culture
-  * Curation
+
+* Curation
     * How the Serpentine Gallery starts conversations
     * Exposing the zeitgeist
     * Network building for challenge-response
