@@ -57,21 +57,24 @@ Your time is priceless - the guide will help make it count.
 
 * For the community leaders who are putting in the work
 
-* Success is defined by what the learner becomes
+* How Peer Learning is emerging
+  * Success is defined by what the learner becomes
     * [Harvard & Y Combinator](http://source.institute/blog/harvard-and-yc-on-defining-learning-success/)
-* Put the learner in a fitting environment
+  * Put the learner in a fitting environment
     * [Spiritual Farming & the UN's farmer field schools](http://source.institute/blog/get-out-of-the-classroom/)
-* Communities are conduits of knowledge
+  * Communities are conduits of knowledge
     * [The Lean Startup Movement](http://source.institute/blog/communities-are-conduits-of-knowledge/)
-* The educator, the domain expert and the learner are provisory roles
+  * The educator, the domain expert and the learner are provisory roles
     * Pirate Summit
+
 
 * [Defining Peer Learning](http://source.institute/blog/what-is-peer-learning/)
   * Responsiveness
   * Creative Agency
   * Hyper-Connectivity
 
-* [Evaluation Framework](http://source.institute/blog/peer-learning-evaluation/
+
+* [Evaluation Framework](http://source.institute/blog/peer-learning-evaluation/)
   * Lecture programs
   * Panel discussions
   * Large conferences
@@ -87,7 +90,7 @@ Your time is priceless - the guide will help make it count.
   * Unleashing Agency
   * Brokering connections
   * Serendipity as a service
-  
+
 * Program Design
   * From evolution to redesign
   * Questioning the pre-conditions
@@ -113,12 +116,12 @@ Your time is priceless - the guide will help make it count.
     * Exposing the zeitgeist
     * Network building for challenge-response
     * Teams of curators
-   
-  * Scheduling help, not topics
-    * Layers - optimising for learner success
-    * Loops - scheduling for rhythm
+  
+* Scheduling help, not topics
+  * Layers - optimising for learner success
+  * Loops - scheduling for rhythm
     
-* How communites of practice mature in waves
+* Communities mature in waves
   * Explorers, who value novelty
   * Traders, who value knowledge
   * Warriors, who value performance
