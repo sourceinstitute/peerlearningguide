@@ -54,9 +54,6 @@ Your time is priceless - the guide will help make it count.
 
 # Table of contents
 
-
-* For the community leaders who are putting in the work
-
 * How Peer Learning is emerging
   * Success is defined by what the learner becomes
     * [Harvard & Y Combinator](http://source.institute/blog/harvard-and-yc-on-defining-learning-success/)
@@ -73,31 +70,21 @@ Your time is priceless - the guide will help make it count.
   * Creative Agency
   * Hyper-Connectivity
 
-
 * [Evaluation Framework](http://source.institute/blog/peer-learning-evaluation/)
-  * Lecture programs
-  * Panel discussions
-  * Large conferences
-  * Retreats
-  * Workshops
-  * Startup Accelerators
-  * Barcamps
 
 * Evolving your program
   * Calibrating to learners
   * Diagnosing learners
-  * [Building Agency so learner's become self-directed](http://source.institute/blog/building-agency/)
+  * [Enabling self-direction](http://source.institute/blog/building-agency/)
   * Unleashing Agency
   * Brokering connections
   * Serendipity as a service
 
 * Program Design
-  * From evolution to redesign
   * Questioning the pre-conditions - content, methodologies and models
   * Defining Learning Success
   	* What goals does Peer Learning enable?
   	* [Designing around unlikely advantages](http://source.institute/blog/unlikely-advantages/)
-  * Assessing what you have to work with
   * Design decisions
     * Where are your sources of knowledge?
     * Support projects or people?
@@ -113,16 +100,16 @@ Your time is priceless - the guide will help make it count.
     * How the Serpentine Gallery starts conversations
     * Exposing the zeitgeist
     * Network building for challenge-response
-    * Teams of curators
+    * Curating in teams
   
 * Scheduling help, not topics
   * Layers - optimising for learner success
-  * Loops - scheduling for rhythm
+  * Loops - building rhythm to make progress
     
 * Communities mature in waves
-  * Explorers, who value novelty
-  * Traders, who value knowledge
-  * Warriors, who value performance
+  * Explorers value novelty
+  * Traders value knowledge
+  * Warriors value performance
  
 * Planting your flag
 
