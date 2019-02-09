@@ -29,20 +29,6 @@ The Peer Learning Guide is written for educators, program managers, and most imp
 
 It covers our role models' stories, like Harvard and Y Combinator in the US, MEST in Ghana, FarmHack in the Netherlands and Pirate Summit in Germany. And we share how we took what we learned from them to create some world-class education programs and globally-known communities of practice like The Sources, The Africa Prize For Engineering and the Lean Startup movement.
 
-We wrote this book with action in mind.  It weaves together lots of different experiences and lessons from around the world, and gives you a set of tools to evolve education programs towards being more connected and more responsive.  
-
-* How to design a program that will have an over-subscribed pipeline of applicants
-* How to design a schedule that engages people consistently
-* Why standard programs fail to align to the learners' motivations
-* How to run a program that makes the learner actively pull new content, rather than passively (or sleepily) consume
-* How to find more inspiring and relevant expertise, beyond the workshop/consultant brigade
-* How to separate the role of the educator from the role of the domain expert
-* How to remove the logistics and admin-heavy aspects of education, to free your time for high-impact activities
-
-If you want to improve an existing educational program, build a community of practice or take your education into your own hands - this guide will help you.
-
-Your time is priceless - the guide will help make it count.
-
 <div class="cta">
 <p>Join our mailing list for a sneak peek.</p>
 <p><a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"> Sign Up</a></p>
