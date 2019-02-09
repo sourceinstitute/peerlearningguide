@@ -2,6 +2,7 @@
   <a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"><img src="public/img/peerlearningguidecover.png"></a>
 </div>
 
+
 How to make education responsive to a fast-changing world. Lessons from our heroes, and our own peer-learning programs on 5 continents.
 
 <div class="cta">
@@ -53,85 +54,76 @@ Your time is priceless - the guide will help make it count.
 
 # Table of contents
 
-* Making this guide work for you
+
 * For the community leaders who are putting in the work
 
-* Flexible, easy-to-setup educational formats
-	* From topic checklists to mindset evolution
-	* From scheduling to responding
+* Success is defined by what the learner becomes
+    * [Harvard & Y Combinator](http://source.institute/blog/harvard-and-yc-on-defining-learning-success/)
+* Put the learner in a fitting environment
+    * [Spiritual Farming & the UN's farmer field schools](http://source.institute/blog/get-out-of-the-classroom/)
+* Communities are conduits of knowledge
+    * [The Lean Startup Movement](http://source.institute/blog/communities-are-conduits-of-knowledge/)
+* The educator, the domain expert and the learner are provisory roles
+    * Pirate Summit
 
-* “Modern” education is modernising
-  * Success is defined by what the learner becomes
-    * [Harvard Physics & Y Combinator](http://community.source.institute/t/excerpt-harvard-physics-and-y-combinator-on-defining-learning-success/2690)
-  * Put the learner in a fitting environment
-    * Seedcamp & the Lean Startup movement
-  * Detect and Respond
-    * UCL & University Of Wageningen
-  * Communities are conduits of knowledge
-    * Pirate Summit & Clearleft 
-  * The educator, the domain expert and the learner are provisory roles
-    * The Africa Prize & London's Braintrust
-  * Put the learner in control
-    * Farmer Field Schools & Barcamp
-
-* Defining Peer-to-peer Education
+* [Defining Peer Learning](http://source.institute/blog/what-is-peer-learning/)
   * Responsiveness
   * Creative Agency
   * Hyper-Connectivity
 
-* Evaluation Framework
-  * Evaluating different forms of education
-    * Lecture programs
-    * Panel discussions
-    * Large conferences
-    * Retreats
-    * Workshops
-    * Startup Accelerators
+* [Evaluation Framework](http://source.institute/blog/peer-learning-evaluation/
+  * Lecture programs
+  * Panel discussions
+  * Large conferences
+  * Retreats
+  * Workshops
+  * Startup Accelerators
+  * Barcamps
 
+* Evolving your program
+  * Calibrating to learners
+  * Diagnosing learners
+  * [Building Agency so learner's become self-directed](http://source.institute/blog/building-agency/)
+  * Unleashing Agency
+  * Brokering connections
+  * Serendipity as a service
+  
 * Program Design
-  * What is a program?
-  * Defining Learning Success:
-    * Mindset
-    * Knowledge repetition versus application and action
-    * Letting the learner define success for themselves
-  * Program Shapes or Templates?
-  * Key factors to consider
-    * Ryhthm
-    * Project or person
-    * Knowledge sources
-    * Knowledge Waves 
-    * Agency 
-    * Motivation to attend: intrinsic / extrinsic, zeitgiest / challenge
-    * Open / Cohorts
-    * Pipeline and applications
-
-* Peer Learning Components
-  * Increasing Responsiveness
-    * Formats: Inside Out, Clinics, Fixers
-    * Facilitation skills: Post Up, Packaging Knowledge
-  * Building Agency
-    * Structurally: Self-directed projects,  Inspiration
-    * Formats: Flocks, Hearts and Hurdles
-    * Facilitation skill: Seeding content, Building Vunerability
-    * Confidence Builders & Simulations
-    * Managing Experts Who Confuse
-  * Building On Agency
-    * Formats: Braintrust, Pitch Bingo
-    * Facilitation skills: time-keeping, peer feedback
-  * Increasing Hyper-Connectivity
-    * Building Community
-    * Format: fishbowl, open interview, Lean Coffee, Open Spaces
-    * Facilitation skill: invitation, systematic networking, working with ambassadors
-  * Introducing Peer Learning in Constrained Environments
-    * Formats: Neighbour, Spar, Live Case Studies
-
-* What's next?
-    * Evolving your program over time
-    * Alumni networks
-    * Building Community support
-
-* Peer Learning Traders
-  * The Source Community
+  * From evolution to redesign
+  * Questioning the pre-conditions
+  	* Content - teaching tech in Africa
+	* Methodologies - the fallacy of case studies
+	* Models - copying startup accelerators
+  * Defining Learning Success
+  	* Reframing your goals with your peer learning capabilities
+  	* [Interdisciplinary opportunities and designing your program around unlikely advantages](http://source.institute/blog/unlikely-advantages/)
+  * Assessing what you have to work with
+  * Design decisions
+    * Where are your sources of knowledge?
+    * Support projects or people?
+    * Emphemeral or evergreen topics?
+    * Intrinsic or extrinsic motivators?
+    * Open or closed admission?
+  * Peer Learning Tactics
+    * Lowering lead-time
+    * Eliminating wheel-spinning
+    * Injecting role models into the culture
+  * Curation
+    * How the Serpentine Gallery starts conversations
+    * Exposing the zeitgeist
+    * Network building for challenge-response
+    * Teams of curators
+   
+  * Scheduling help, not topics
+    * Layers - optimising for learner success
+    * Loops - scheduling for rhythm
+    
+* How communites of practice mature in waves
+  * Explorers, who value novelty
+  * Traders, who value knowledge
+  * Warriors, who value performance
+ 
+* Planting your flag
 
 ---
 <div class="cta">
