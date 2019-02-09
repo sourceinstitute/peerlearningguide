@@ -94,7 +94,7 @@ Your time is priceless - the guide will help make it count.
 * Program Design
   * From evolution to redesign
   * Questioning the pre-conditions
-  	* Content - teaching tech in Africa
+  	* Content - teaching tech in East Africa
 	* Methodologies - the fallacy of case studies
 	* Models - copying startup accelerators
   * Defining Learning Success
