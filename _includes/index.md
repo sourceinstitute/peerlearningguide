@@ -67,34 +67,34 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
   * Serendipity as a service
 
 5. Program Design
-  * Questioning the pre-conditions - content, methodologies and models
-  * Defining Learning Success
-  	* What goals does Peer Learning enable?
-  	* [Designing around unlikely advantages](http://source.institute/blog/unlikely-advantages/)
-  * Design decisions
-    * Where are your sources of knowledge?
-    * Support projects or people?
-    * Emphemeral or evergreen topics?
-    * Intrinsic or extrinsic motivators?
-    * Open or closed admission?
-  * Peer Learning Tactics
-    * Lowering lead-time
-    * Eliminating wheel-spinning
-    * Injecting role models into the culture
-  * Scheduling help, not topics
-    * Layers - optimising for learner success
-    * Loops - building rhythm to make progress
+    * Questioning the pre-conditions - content, methodologies and models
+    * Defining Learning Success
+        * What goals does Peer Learning enable?
+        * [Designing around unlikely advantages](http://source.institute/blog/unlikely-advantages/)
+    * Design decisions
+        * Where are your sources of knowledge?
+        * Support projects or people?
+        * Emphemeral or evergreen topics?
+        * Intrinsic or extrinsic motivators?
+        * Open or closed admission?
+    * Peer Learning Tactics
+        * Lowering lead-time
+        * Eliminating wheel-spinning
+        * Injecting role models into the culture
+    * Scheduling help, not topics
+        * Layers - optimising for learner success
+        * Loops - building rhythm to make progress
 
 6. Curation
-    * How the Serpentine Gallery starts conversations
-    * Exposing the zeitgeist
-    * Network building for challenge-response
-    * Curating in teams
+      * How the Serpentine Gallery starts conversations
+      * Exposing the zeitgeist
+      * Network building for challenge-response
+      * Curating in teams
   
 7. Communities mature in waves
-  * Explorers value novelty
-  * Traders value knowledge
-  * Warriors value performance
+    * Explorers value novelty
+    * Traders value knowledge
+    * Warriors value performance
  
 8. Planting your flag
 
