@@ -40,7 +40,7 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
 
 # Table of contents
 
-* How Peer Learning is emerging
+1. How Peer Learning is emerging
   * Success is defined by what the learner becomes
     * [Harvard & Y Combinator](http://source.institute/blog/harvard-and-yc-on-defining-learning-success/)
   * Put the learner in a fitting environment
@@ -51,14 +51,14 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
     * Pirate Summit
 
 
-* [Defining Peer Learning](http://source.institute/blog/what-is-peer-learning/)
+2. [Defining Peer Learning](http://source.institute/blog/what-is-peer-learning/)
   * Responsiveness
   * Agency
   * Hyper-Connectivity
 
-* [Evaluation Framework](http://source.institute/blog/peer-learning-evaluation/)
+3. [Evaluating your program](http://source.institute/blog/peer-learning-evaluation/)
 
-* Evolving your program
+4. Evolving your program
   * Calibrating to learners
   * Diagnosing learners
   * [Enabling self-direction](http://source.institute/blog/building-agency/)
@@ -66,7 +66,7 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
   * Brokering connections
   * Serendipity as a service
 
-* Program Design
+5. Program Design
   * Questioning the pre-conditions - content, methodologies and models
   * Defining Learning Success
   	* What goals does Peer Learning enable?
@@ -81,23 +81,22 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
     * Lowering lead-time
     * Eliminating wheel-spinning
     * Injecting role models into the culture
+  * Scheduling help, not topics
+    * Layers - optimising for learner success
+    * Loops - building rhythm to make progress
 
-* Curation
+6. Curation
     * How the Serpentine Gallery starts conversations
     * Exposing the zeitgeist
     * Network building for challenge-response
     * Curating in teams
   
-* Scheduling help, not topics
-  * Layers - optimising for learner success
-  * Loops - building rhythm to make progress
-    
-* Communities mature in waves
+7. Communities mature in waves
   * Explorers value novelty
   * Traders value knowledge
   * Warriors value performance
  
-* Planting your flag
+8. Planting your flag
 
 ---
 <div class="cta">
