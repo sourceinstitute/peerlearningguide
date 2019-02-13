@@ -53,7 +53,7 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
 
 * [Defining Peer Learning](http://source.institute/blog/what-is-peer-learning/)
   * Responsiveness
-  * Creative Agency
+  * Agency
   * Hyper-Connectivity
 
 * [Evaluation Framework](http://source.institute/blog/peer-learning-evaluation/)
