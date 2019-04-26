@@ -59,8 +59,8 @@ $5 (<strike>$19</strike>)
 
 2. Learning from your peers
   * [Success is defined by what the learner becomes](http://source.institute/blog/harvard-and-yc-on-defining-learning-success/)
-  * [Put the learner in a fitting environment] (http://source.institute/blog/get-out-of-the-classroom/)
-  * [Communities are conduits of knowledge] (http://source.institute/blog/communities-are-conduits-of-knowledge/)
+  * [Put the learner in a fitting environment](http://source.institute/blog/get-out-of-the-classroom/)
+  * [Communities are conduits of knowledge](http://source.institute/blog/communities-are-conduits-of-knowledge/)
   * Put the learner in control
 
 2. Defining Peer Learning
