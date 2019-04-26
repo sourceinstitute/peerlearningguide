@@ -1,5 +1,5 @@
 <div class="cover">
-  <a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"><img src="public/img/peerlearningguidecover.png"></a>
+  <a href="https://gumroad.com/l/peerlearning?wanted=true"><img src="public/img/peerlearningguidecover.png"></a>
 </div>
 
 
@@ -11,7 +11,8 @@ How to make education responsive to a fast-changing world. Lessons from our hero
 <a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the pre-release</a>
 
 <div class="sub">
-$5 (<strike>$19</strike>)
+**Available until Tuesday only**
+<br>$5 (<strike>$19</strike>)
 <br>Includes: full draft, plus final PDF version when it's complete
 <br>Format: PDF
 <br> Pages: 204 
@@ -42,7 +43,8 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
 <a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the pre-release</a>
 
 <div class="sub">
-$5 (<strike>$19</strike>)
+**Available until Tuesday only**
+<br>$5 (<strike>$19</strike>)
 <br>Includes: full draft, plus final PDF version when it's complete
 <br>Format: PDF
 <br> Pages: 204 
@@ -111,7 +113,8 @@ $5 (<strike>$19</strike>)
 <a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the pre-release </a>
 
 <div class="sub">
-$5 (<strike>$19</strike>)
+**Available until Tuesday only**
+<br>$5 (<strike>$19</strike>)
 <br>Includes: full draft, plus final PDF version when it's complete
 <br>Format: PDF
 <br> Pages: 204 
