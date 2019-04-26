@@ -5,15 +5,15 @@
 
 How to make education responsive to a fast-changing world. Lessons from our heroes, and our own peer-learning programs on 5 continents.
 
-</div>
-
 <div class="cta">
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the book</a>
+<a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the pre-release draft</a>
 
 <div class="sub">
-$5<br>200 pages <br>30-day money-back guarantee.
+$5 (Discounted from $19)<br>
+Includes the current draft immediately, plus the final version when it's complete.
+<br>200 pages <br>30-day money-back guarantee.
 </div>
 </div>
 
@@ -38,10 +38,12 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
 <div class="cta">
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the book</a>
+<a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the pre-release draft</a>
 
 <div class="sub">
-$5<br>200 pages <br>30-day money-back guarantee.
+$5 (Discounted from $19)<br>
+Includes the current draft immediately, plus the final version when it's complete.
+<br>200 pages <br>30-day money-back guarantee.
 </div>
 </div>
 
