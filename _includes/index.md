@@ -12,10 +12,9 @@ How to make education responsive to a fast-changing world. Lessons from our hero
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the book</a>
 
-<p>Join our mailing list for a sneak peek.</p>
-<p><a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"> Sign Up</a></p>
 <div class="sub">
 $5<br>200 pages <br>30-day money-back guarantee.
+</div>
 </div>
 
 <div style="clear: right;"></div>
@@ -41,10 +40,9 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the book</a>
 
-<p>Join our mailing list for a sneak peek.</p>
-<p><a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"> Sign Up</a></p>
 <div class="sub">
 $5<br>200 pages <br>30-day money-back guarantee.
+</div>
 </div>
 
 
