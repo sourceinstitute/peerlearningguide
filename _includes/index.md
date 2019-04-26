@@ -55,63 +55,55 @@ $5 (<strike>$19</strike>)
 
 # Table of contents
 
-1. How Peer Learning is emerging
-  * Success is defined by what the learner becomes
-    * [Harvard & Y Combinator](http://source.institute/blog/harvard-and-yc-on-defining-learning-success/)
-  * Put the learner in a fitting environment
-    * [Spiritual Farming & the UN's farmer field schools](http://source.institute/blog/get-out-of-the-classroom/)
-  * Communities are conduits of knowledge
-    * [The Lean Startup Movement](http://source.institute/blog/communities-are-conduits-of-knowledge/)
-  * The educator, the domain expert and the learner are provisory roles
-    * Pirate Summit
+1. What makes someone your peer?
 
+2. Learning from your peers
+  * [Success is defined by what the learner becomes](http://source.institute/blog/harvard-and-yc-on-defining-learning-success/)
+  * [Put the learner in a fitting environment] (http://source.institute/blog/get-out-of-the-classroom/)
+  * [Communities are conduits of knowledge] (http://source.institute/blog/communities-are-conduits-of-knowledge/)
+  * Put the learner in control
 
-2. [Defining Peer Learning](http://source.institute/blog/what-is-peer-learning/)
-  * Responsiveness
+2. Defining Peer Learning
   * Agency
-  * Hyper-Connectivity
+  * Responsiveness
+  * Connectivity
 
-3. [Evaluating your program](http://source.institute/blog/peer-learning-evaluation/)
 
-4. Evolving your program
-  * Calibrating to learners
-  * Diagnosing learners
-  * [Enabling self-direction](http://source.institute/blog/building-agency/)
-  * Unleashing Agency
-  * Brokering connections
-  * Serendipity as a service
+3. What makes Peer Learning work
+  * Learning on the agenda doesn’t mean learning happened
+  * Detect then respond
+  * Evaluating common approaches
+  * First steps
+  * Progressing
 
-5. Program Design
-    * Questioning the pre-conditions - content, methodologies and models
-    * Defining Learning Success
-        * What goals does Peer Learning enable?
-        * [Designing around unlikely advantages](http://source.institute/blog/unlikely-advantages/)
-    * Design decisions
-        * Where are your sources of knowledge?
-        * Support projects or people?
-        * Emphemeral or evergreen topics?
-        * Intrinsic or extrinsic motivators?
-        * Open or closed admission?
-    * Peer Learning Tactics
-        * Lowering lead-time
-        * Eliminating wheel-spinning
-        * Injecting role models into the culture
-    * Scheduling help, not topics
-        * Layers - optimising for learner success
-        * Loops - building rhythm to make progress
+4. Picking your next step
+  * To start with calibration
+  * Running diagnostics
+  * Initiating Agency
+  * Catalyzing Agency
+  * Expanding connections
+  * Hyper-linking - manufacturing serendipity for learners
+  * Incremental improvements
 
-6. Curation
-      * How the Serpentine Gallery starts conversations
-      * Exposing the zeitgeist
-      * Network building for challenge-response
-      * Curating in teams
-  
-7. Communities mature in waves
-    * Explorers value novelty
-    * Traders value knowledge
-    * Warriors value performance
- 
-8. Planting your flag
+5. The Peer Learning Shift
+  * Content
+  * Methodologies
+  * Models
+  * Unlearn from the best
+
+6. Redesigning
+  * The Coherence Question
+  * Assessment
+
+7. Peer Learning Functionality
+  * Lower Access Time
+  * Catch Wheel-spinning
+  * Inject role models
+  * Curate Communities
+
+8. Communities mature in waves
+  * Explorers, Traders and Warriors
+  * Picking your banner
 
 ---
 <div class="cta">
