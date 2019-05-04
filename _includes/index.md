@@ -5,20 +5,9 @@
 
 How to make education responsive to a fast-changing world. Lessons from our heroes, and our own peer-learning programs on 5 continents.
 
-<div class="cta">
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the pre-release</a>
-
-<div class="sub">
-**Available until Tuesday only**
-<br>$5 (<strike>$19</strike>)
-<br>Includes: full draft, plus final PDF version when it's complete
-<br>Format: PDF
-<br> Pages: 204 
-<br>30-day money-back guarantee
-</div>
-</div>
+<p>Join our mailing list for a sneak peek.</p>
+<p><a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"> Sign Up</a></p>
 
 <div style="clear: right;"></div>
 ---
@@ -38,19 +27,9 @@ The Peer Learning Guide is written for educators, program managers, and most imp
 
 It covers our role models' stories, like Harvard and Y Combinator in the US, MEST in Ghana, FarmHack in the Netherlands and Pirate Summit in Germany. And we share how we took what we learned from them to create some world-class education programs and globally-known communities of practice like The Sources, The Africa Prize For Engineering and the Lean Startup movement.
 
-<div class="cta">
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the pre-release</a>
 
-<div class="sub">
-**Available until Tuesday only**
-<br>$5 (<strike>$19</strike>)
-<br>Includes: full draft, plus final PDF version when it's complete
-<br>Format: PDF
-<br> Pages: 204 
-<br>30-day money-back guarantee
-</div>
-</div>
+<p>Join our mailing list for a sneak peek.</p>
+<p><a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"> Sign Up</a></p>
 
 
 ---
@@ -108,19 +87,9 @@ It covers our role models' stories, like Harvard and Y Combinator in the US, MES
   * Picking your banner
 
 ---
-<div class="cta">
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/peerlearning?wanted=true" target="_blank" data-gumroad-single-product="true">Get the pre-release </a>
 
-<div class="sub">
-**Available until Tuesday only**
-<br>$5 (<strike>$19</strike>)
-<br>Includes: full draft, plus final PDF version when it's complete
-<br>Format: PDF
-<br> Pages: 204 
-<br>30-day money-back guarantee
-</div>
-</div>
+<p>Join our mailing list for a sneak peek.</p>
+<p><a href="http://sendy.source.institute/subscription?f=iVTKAVDr7ah0oAQw8v8qOzCSdTEgCHxk84XgPNfwU0GqBmD3qYraY6azokrrzn9iml4qp15wodg0qDyNkLeo892w"> Sign Up</a></p>
 
 
 
